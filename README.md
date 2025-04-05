@@ -12,7 +12,7 @@ EfePiVault is more than a repo—it’s a sanctuary for the extraordinary. Wheth
 
 ## Open the Vault
 Ready to explore or contribute? Here’s your entry:
-1. Peek into the [Vault](#) to see what’s locked within.
+1. Peek into the [EfePiVault](#) to see what’s locked within.
 2. Fork, star, or drop a key—collaboration opens new doors!
 3. Add your treasures—every great idea deserves a safe home.
 
