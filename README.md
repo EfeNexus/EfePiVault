@@ -1,5 +1,17 @@
 # Welcome to EfePiVault 🔒🌌
 
+# EfePiVault
+
+Your secure gateway to managing Pi Network assets. This project provides a reliable vault for storing, sending, and receiving Pi cryptocurrency, designed with security and ease of use at its core.
+
+## Overview
+
+EfePiVault is a tool tailored for Pi Network enthusiasts and developers alike. It integrates with the Pi ecosystem to offer a seamless experience for handling Pi transactions and assets.
+
+## Efe Nexus Pi Wallet Address
+
+Support the development of EfePiVault or send Pi for testing using this wallet address:  GDVD7O5WBNO6QX5NLBJXPOSVNOTXYBY6RUZOUCXJDEJCSGSDAVTWRVJG
+
 The ultimate stronghold of innovation and ingenuity! Built on the unshakable foundation of **Efe Nexus Pi**, this is where we safeguard brilliance, lock down creativity, and unlock limitless possibilities. Think of it as a cosmic vault—storing code, ideas, and solutions that stand the test of time.
 
 ## Our Purpose
